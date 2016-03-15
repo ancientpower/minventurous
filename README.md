@@ -1,2 +1,2 @@
 # minventurous
-mineventurous modpack for minecraft 1.8.9
+minimalistic version of mineventurous modpack for minecraft 1.8.9
