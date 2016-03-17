@@ -1,2 +1,430 @@
 {
+  "littleMaidMob.hurt_nodamege": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.hurt_nodamege//LittleMaidMobNX/littleMaidMob/hurt_nodamege4.ogg",
+      "littleMaidMob.hurt_nodamege//LittleMaidMobNX/littleMaidMob/hurt_nodamege3.ogg",
+      "littleMaidMob.hurt_nodamege//LittleMaidMobNX/littleMaidMob/hurt_nodamege1.ogg",
+      "littleMaidMob.hurt_nodamege//LittleMaidMobNX/littleMaidMob/hurt_nodamege2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.hurt_fall": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.hurt_fall//LittleMaidMobNX/littleMaidMob/hurt_fall2.ogg",
+      "littleMaidMob.hurt_fall//LittleMaidMobNX/littleMaidMob/hurt_fall1.ogg",
+      "littleMaidMob.hurt_fall//LittleMaidMobNX/littleMaidMob/hurt_fall3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.death": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.death//LittleMaidMobNX/littleMaidMob/death2.ogg",
+      "littleMaidMob.death//LittleMaidMobNX/littleMaidMob/death1.ogg",
+      "littleMaidMob.death//LittleMaidMobNX/littleMaidMob/death4.ogg",
+      "littleMaidMob.death//LittleMaidMobNX/littleMaidMob/death5.ogg",
+      "littleMaidMob.death//LittleMaidMobNX/littleMaidMob/death3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.healing_potion": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.healing_potion//LittleMaidMobNX/littleMaidMob/healing_potion1.ogg",
+      "littleMaidMob.healing_potion//LittleMaidMobNX/littleMaidMob/healing_potion2.ogg",
+      "littleMaidMob.healing_potion//LittleMaidMobNX/littleMaidMob/healing_potion3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_morning": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_morning//LittleMaidMobNX/littleMaidMob/living_morning3.ogg",
+      "littleMaidMob.living_morning//LittleMaidMobNX/littleMaidMob/living_morning2.ogg",
+      "littleMaidMob.living_morning//LittleMaidMobNX/littleMaidMob/living_morning1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.attack": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack3.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack5.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack6.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack1.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack4.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack2.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack7.ogg",
+      "littleMaidMob.attack//LittleMaidMobNX/littleMaidMob/attack8.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.shoot_burst": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.shoot_burst//LittleMaidMobNX/littleMaidMob/shoot_burst2.ogg",
+      "littleMaidMob.shoot_burst//LittleMaidMobNX/littleMaidMob/shoot_burst1.ogg",
+      "littleMaidMob.shoot_burst//LittleMaidMobNX/littleMaidMob/shoot_burst3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.hurt_fire": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.hurt_fire//LittleMaidMobNX/littleMaidMob/hurt_fire1.ogg",
+      "littleMaidMob.hurt_fire//LittleMaidMobNX/littleMaidMob/hurt_fire2.ogg",
+      "littleMaidMob.hurt_fire//LittleMaidMobNX/littleMaidMob/hurt_fire3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_rain": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_rain//LittleMaidMobNX/littleMaidMob/living_rain2.ogg",
+      "littleMaidMob.living_rain//LittleMaidMobNX/littleMaidMob/living_rain3.ogg",
+      "littleMaidMob.living_rain//LittleMaidMobNX/littleMaidMob/living_rain1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.eatSugar": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.eatSugar//LittleMaidMobNX/littleMaidMob/eatSugar1.ogg",
+      "littleMaidMob.eatSugar//LittleMaidMobNX/littleMaidMob/eatSugar4.ogg",
+      "littleMaidMob.eatSugar//LittleMaidMobNX/littleMaidMob/eatSugar2.ogg",
+      "littleMaidMob.eatSugar//LittleMaidMobNX/littleMaidMob/eatSugar3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.hurt_guard": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.hurt_guard//LittleMaidMobNX/littleMaidMob/hurt_guard2.ogg",
+      "littleMaidMob.hurt_guard//LittleMaidMobNX/littleMaidMob/hurt_guard3.ogg",
+      "littleMaidMob.hurt_guard//LittleMaidMobNX/littleMaidMob/hurt_guard1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.findTarget_N": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N2.ogg",
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N1.ogg",
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N7.ogg",
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N6.ogg",
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N3.ogg",
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N5.ogg",
+      "littleMaidMob.findTarget_N//LittleMaidMobNX/littleMaidMob/findTarget_N4.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.laughter": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.laughter//LittleMaidMobNX/littleMaidMob/laughter1.ogg",
+      "littleMaidMob.laughter//LittleMaidMobNX/littleMaidMob/laughter2.ogg",
+      "littleMaidMob.laughter//LittleMaidMobNX/littleMaidMob/laughter3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.healing": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.healing//LittleMaidMobNX/littleMaidMob/healing2.ogg",
+      "littleMaidMob.healing//LittleMaidMobNX/littleMaidMob/healing1.ogg",
+      "littleMaidMob.healing//LittleMaidMobNX/littleMaidMob/healing3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.addFuel": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.addFuel//LittleMaidMobNX/littleMaidMob/addFuel2.ogg",
+      "littleMaidMob.addFuel//LittleMaidMobNX/littleMaidMob/addFuel1.ogg",
+      "littleMaidMob.addFuel//LittleMaidMobNX/littleMaidMob/addFuel3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.installation": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation3.ogg",
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation5.ogg",
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation2.ogg",
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation7.ogg",
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation1.ogg",
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation6.ogg",
+      "littleMaidMob.installation//LittleMaidMobNX/littleMaidMob/installation4.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_whine": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_whine//LittleMaidMobNX/littleMaidMob/living_whine3.ogg",
+      "littleMaidMob.living_whine//LittleMaidMobNX/littleMaidMob/living_whine2.ogg",
+      "littleMaidMob.living_whine//LittleMaidMobNX/littleMaidMob/living_whine1.ogg",
+      "littleMaidMob.living_whine//LittleMaidMobNX/littleMaidMob/living_whine4.ogg",
+      "littleMaidMob.living_whine//LittleMaidMobNX/littleMaidMob/living_whine5.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.Recontract": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.Recontract//LittleMaidMobNX/littleMaidMob/Recontract3.ogg",
+      "littleMaidMob.Recontract//LittleMaidMobNX/littleMaidMob/Recontract1.ogg",
+      "littleMaidMob.Recontract//LittleMaidMobNX/littleMaidMob/Recontract2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_daytime": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime37.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime5.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime59.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime18.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime26.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime34.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime53.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime29.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime15.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime48.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime24.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime14.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime51.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime38.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime60.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime32.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime10.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime9.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime19.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime11.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime1.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime16.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime20.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime49.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime52.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime55.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime30.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime31.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime40.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime41.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime57.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime17.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime58.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime46.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime42.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime2.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime54.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime23.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime7.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime4.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime39.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime44.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime25.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime21.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime8.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime43.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime56.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime33.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime50.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime6.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime28.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime27.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime36.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime22.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime3.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime47.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime12.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime35.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime45.ogg",
+      "littleMaidMob.living_daytime//LittleMaidMobNX/littleMaidMob/living_daytime13.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.goodnight": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.goodnight//LittleMaidMobNX/littleMaidMob/goodnight4.ogg",
+      "littleMaidMob.goodnight//LittleMaidMobNX/littleMaidMob/goodnight1.ogg",
+      "littleMaidMob.goodnight//LittleMaidMobNX/littleMaidMob/goodnight3.ogg",
+      "littleMaidMob.goodnight//LittleMaidMobNX/littleMaidMob/goodnight2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.collect_snow": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.collect_snow//LittleMaidMobNX/littleMaidMob/collect_snow2.ogg",
+      "littleMaidMob.collect_snow//LittleMaidMobNX/littleMaidMob/collect_snow3.ogg",
+      "littleMaidMob.collect_snow//LittleMaidMobNX/littleMaidMob/collect_snow1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.findTarget_B": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.findTarget_B//LittleMaidMobNX/littleMaidMob/findTarget_B4.ogg",
+      "littleMaidMob.findTarget_B//LittleMaidMobNX/littleMaidMob/findTarget_B3.ogg",
+      "littleMaidMob.findTarget_B//LittleMaidMobNX/littleMaidMob/findTarget_B5.ogg",
+      "littleMaidMob.findTarget_B//LittleMaidMobNX/littleMaidMob/findTarget_B2.ogg",
+      "littleMaidMob.findTarget_B//LittleMaidMobNX/littleMaidMob/findTarget_B1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.goodmorning": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.goodmorning//LittleMaidMobNX/littleMaidMob/goodmorning1.ogg",
+      "littleMaidMob.goodmorning//LittleMaidMobNX/littleMaidMob/goodmorning3.ogg",
+      "littleMaidMob.goodmorning//LittleMaidMobNX/littleMaidMob/goodmorning2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.getCake": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.getCake//LittleMaidMobNX/littleMaidMob/getCake3.ogg",
+      "littleMaidMob.getCake//LittleMaidMobNX/littleMaidMob/getCake1.ogg",
+      "littleMaidMob.getCake//LittleMaidMobNX/littleMaidMob/getCake5.ogg",
+      "littleMaidMob.getCake//LittleMaidMobNX/littleMaidMob/getCake4.ogg",
+      "littleMaidMob.getCake//LittleMaidMobNX/littleMaidMob/getCake2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.shoot": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.shoot//LittleMaidMobNX/littleMaidMob/shoot4.ogg",
+      "littleMaidMob.shoot//LittleMaidMobNX/littleMaidMob/shoot3.ogg",
+      "littleMaidMob.shoot//LittleMaidMobNX/littleMaidMob/shoot1.ogg",
+      "littleMaidMob.shoot//LittleMaidMobNX/littleMaidMob/shoot2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.eatSugar_MaxPower": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.eatSugar_MaxPower//LittleMaidMobNX/littleMaidMob/eatSugar_MaxPower1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_night": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_night//LittleMaidMobNX/littleMaidMob/living_night2.ogg",
+      "littleMaidMob.living_night//LittleMaidMobNX/littleMaidMob/living_night1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.cookingOver": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.cookingOver//LittleMaidMobNX/littleMaidMob/cookingOver3.ogg",
+      "littleMaidMob.cookingOver//LittleMaidMobNX/littleMaidMob/cookingOver2.ogg",
+      "littleMaidMob.cookingOver//LittleMaidMobNX/littleMaidMob/cookingOver1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.sighting": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.sighting//LittleMaidMobNX/littleMaidMob/sighting2.ogg",
+      "littleMaidMob.sighting//LittleMaidMobNX/littleMaidMob/sighting3.ogg",
+      "littleMaidMob.sighting//LittleMaidMobNX/littleMaidMob/sighting1.ogg",
+      "littleMaidMob.sighting//LittleMaidMobNX/littleMaidMob/sighting4.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.hurt": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.hurt//LittleMaidMobNX/littleMaidMob/hurt5.ogg",
+      "littleMaidMob.hurt//LittleMaidMobNX/littleMaidMob/hurt2.ogg",
+      "littleMaidMob.hurt//LittleMaidMobNX/littleMaidMob/hurt6.ogg",
+      "littleMaidMob.hurt//LittleMaidMobNX/littleMaidMob/hurt4.ogg",
+      "littleMaidMob.hurt//LittleMaidMobNX/littleMaidMob/hurt1.ogg",
+      "littleMaidMob.hurt//LittleMaidMobNX/littleMaidMob/hurt3.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_hot": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_hot//LittleMaidMobNX/littleMaidMob/living_hot2.ogg",
+      "littleMaidMob.living_hot//LittleMaidMobNX/littleMaidMob/living_hot1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.cookingStart": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.cookingStart//LittleMaidMobNX/littleMaidMob/cookingStart2.ogg",
+      "littleMaidMob.cookingStart//LittleMaidMobNX/littleMaidMob/cookingStart3.ogg",
+      "littleMaidMob.cookingStart//LittleMaidMobNX/littleMaidMob/cookingStart1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.findTarget_D": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.findTarget_D//LittleMaidMobNX/littleMaidMob/findTarget_D4.ogg",
+      "littleMaidMob.findTarget_D//LittleMaidMobNX/littleMaidMob/findTarget_D2.ogg",
+      "littleMaidMob.findTarget_D//LittleMaidMobNX/littleMaidMob/findTarget_D3.ogg",
+      "littleMaidMob.findTarget_D//LittleMaidMobNX/littleMaidMob/findTarget_D1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.hurt_snow": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.hurt_snow//LittleMaidMobNX/littleMaidMob/hurt_snow2.ogg",
+      "littleMaidMob.hurt_snow//LittleMaidMobNX/littleMaidMob/hurt_snow3.ogg",
+      "littleMaidMob.hurt_snow//LittleMaidMobNX/littleMaidMob/hurt_snow4.ogg",
+      "littleMaidMob.hurt_snow//LittleMaidMobNX/littleMaidMob/hurt_snow1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.findTarget_I": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.findTarget_I//LittleMaidMobNX/littleMaidMob/findTarget_I3.ogg",
+      "littleMaidMob.findTarget_I//LittleMaidMobNX/littleMaidMob/findTarget_I5.ogg",
+      "littleMaidMob.findTarget_I//LittleMaidMobNX/littleMaidMob/findTarget_I4.ogg",
+      "littleMaidMob.findTarget_I//LittleMaidMobNX/littleMaidMob/findTarget_I2.ogg",
+      "littleMaidMob.findTarget_I//LittleMaidMobNX/littleMaidMob/findTarget_I1.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_snow": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_snow//LittleMaidMobNX/littleMaidMob/living_snow1.ogg",
+      "littleMaidMob.living_snow//LittleMaidMobNX/littleMaidMob/living_snow2.ogg",
+      "littleMaidMob.living_snow//LittleMaidMobNX/littleMaidMob/living_snow3.ogg",
+      "littleMaidMob.living_snow//LittleMaidMobNX/littleMaidMob/living_snow4.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.TNT_D": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.TNT_D//LittleMaidMobNX/littleMaidMob/TNT_D1.ogg",
+      "littleMaidMob.TNT_D//LittleMaidMobNX/littleMaidMob/TNT_D3.ogg",
+      "littleMaidMob.TNT_D//LittleMaidMobNX/littleMaidMob/TNT_D2.ogg"
+    ]
+  }
+  ,
+  "littleMaidMob.living_cold": {
+    "category": "master",
+    "sounds": [
+      "littleMaidMob.living_cold//LittleMaidMobNX/littleMaidMob/living_cold1.ogg",
+      "littleMaidMob.living_cold//LittleMaidMobNX/littleMaidMob/living_cold3.ogg",
+      "littleMaidMob.living_cold//LittleMaidMobNX/littleMaidMob/living_cold2.ogg"
+    ]
+  }
 }
